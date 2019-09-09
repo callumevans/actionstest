@@ -1,0 +1,10 @@
+{
+  "name": "actionstest",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha **/*.spec.js"
+  },
+  "dependencies": {
+    "mocha": "^6.2.0"
+  }
+}
